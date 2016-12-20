@@ -3,6 +3,7 @@
 /server/.env.*.php
 /server/.env.php
 /server/.env
+/server/*.lock
 /.idea
 
 
