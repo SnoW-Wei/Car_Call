@@ -1,15 +1,8 @@
-vendor/
-node_modules/
+/server/vendor/
+/server/node_modules/
+/server/.env.*.php
+/server/.env.php
+/server/.env
+/.idea
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
 
-# Laravel 5 & Lumen specific
-bootstrap/cache/
-.env.*.php
-.env.php
-.env
-
-# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
